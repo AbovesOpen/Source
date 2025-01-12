@@ -20,10 +20,10 @@
 ----------------------------------------------------------------------------------------------------------------------
 
 'radius' is a number which is how far away the parts are from you (which defaults to 50). So, a code example would look like...
-radius = math.min(10000, 50)
+radius = math.min(10000, 75)
 
 'attractionStrength' is a number which is how fast the parts spin around you (which defaults to 1000). So, a code example would look like...
-attractionStrength = 1000
+attractionStrength = 500
 
 'ringPartsEnabled' is a boolean which is if the main script is enabled (which defaults to false). So, a code example would look like...
 ringPartsEnabled = true
